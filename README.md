@@ -1,6 +1,6 @@
 # SignalR using ASP.NET Core Web API
 * Using .NET 6.0
-* There are 2 options to send message to the hub
+* There are 2 options to send message to the hub:
 	1. BE - POST /message - it will send messages with 'new messages' title
 	2. FE - on testsignalr.html page click 'send message' button - it will send messages with 'refresh-list' title
 
