@@ -1,4 +1,5 @@
-# SignalR using ASP.NET Core Web API
+# Real-Time Notifications with SignalR
+
 * Using .NET 6.0
 * There are 2 options to send message to the hub:
 	1. BE - POST /message - it will send messages with 'new messages' title
